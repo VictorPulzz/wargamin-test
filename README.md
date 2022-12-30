@@ -10,3 +10,8 @@ and with svg
 
 
 A hook was used to catch the resize of the component for code simplicity : use-resize-observer
+
+
+### Initialize project
+1 - npm i
+2 - npm run start
